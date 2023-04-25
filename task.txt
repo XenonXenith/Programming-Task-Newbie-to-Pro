@@ -1,0 +1,95 @@
+
+Beginner Level Tasks:
+
+1.Write a program that prints "Hello, World!" to the console.
+
+Write a program that takes user input and outputs it to the console.
+
+Write a program that calculates the sum of two numbers.
+
+Write a program that calculates the factorial of a given number.
+
+Write a program that determines if a given number is even or odd.
+
+Write a program that finds the largest number in an array.
+
+Write a program that finds the second largest number in an array.
+
+Write a program that finds the sum of all even numbers in an array.
+
+Write a program that finds the sum of all odd numbers in an array.
+
+Write a program that reverses a string.
+
+
+Intermediate Level Tasks:
+
+
+Write a program that finds the first N prime numbers.
+
+Write a program that sorts an array of integers using the Bubble Sort algorithm.
+
+Write a program that sorts an array of integers using the Merge Sort algorithm.
+
+Write a program that finds the Fibonacci sequence up to a given number.
+
+Write a program that generates a random password.
+
+Write a program that generates a random number between two given numbers.
+
+Write a program that converts a decimal number to binary.
+
+Write a program that finds the highest occurring character in a string.
+
+Write a program that calculates the area and perimeter of a circle.
+
+Write a program that calculates the area and perimeter of a rectangle.
+
+
+Advanced Level Tasks:
+
+
+Write a program that implements a binary search algorithm.
+
+Write a program that implements a selection sort algorithm.
+
+Write a program that implements a linked list data structure.
+
+Write a program that implements a hash table data structure.
+
+Write a program that implements a binary tree data structure.
+
+Write a program that implements a graph data structure.
+
+Write a program that implements a Dijkstra's algorithm.
+
+Write a program that implements a Breadth-first search algorithm.
+
+Write a program that implements a Depth-first search algorithm.
+
+Write a program that implements a Bellman-Ford algorithm.
+
+
+Expert Level Tasks:
+
+
+Write a program that implements a Huffman coding algorithm.
+
+Write a program that implements a Monte Carlo simulation.
+
+Write a program that implements a genetic algorithm.
+
+Write a program that implements a neural network.
+
+Write a program that implements a support vector machine.
+
+Write a program that implements a k-nearest neighbor algorithm.
+
+Write a program that implements a decision tree algorithm.
+
+Write a program that implements a random forest algorithm.
+
+Write a program that implements a linear regression algorithm.
+
+Write a program that implements a logistic regression algorithm.
+
